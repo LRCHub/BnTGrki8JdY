@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Don't you see!",
+  "base_artist": "ZARD",
+  "createdAt": "2025-12-01T14:33:29.151034Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't You See The Time",
+      "artist": "Dev Lemons feat. Whose Rules",
+      "has_synced": true,
+      "path": "select/01_Don't_You_See_The_Time_Dev_Lemons_feat._Whose_Rules.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't You See The Time",
+      "artist": "Dev Lemons, Whose Rules",
+      "has_synced": true,
+      "path": "select/02_Don't_You_See_The_Time_Dev_Lemons,_Whose_Rules.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Why Don't You See Me",
+      "artist": "Concrete Blonde",
+      "has_synced": true,
+      "path": "select/03_Why_Don't_You_See_Me_Concrete_Blonde.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't You See",
+      "artist": "Shocking Blue",
+      "has_synced": false,
+      "path": "select/04_Don't_You_See_Shocking_Blue.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't you see!",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/05_Don't_you_see!_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't You See",
+      "artist": "Saphir",
+      "has_synced": true,
+      "path": "select/06_Don't_You_See_Saphir.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't You See the Light",
+      "artist": "E-Rotic",
+      "has_synced": false,
+      "path": "select/07_Don't_You_See_the_Light_E-Rotic.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Why don't you see a movie?",
+      "artist": "HA SUNG WOON",
+      "has_synced": true,
+      "path": "select/08_Why_don't_you_see_a_movie_HA_SUNG_WOON.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't you see!",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/09_Don't_you_see!_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don’t you see!",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/10_Don’t_you_see!_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don’t You See",
+      "artist": "Shocking Blue",
+      "has_synced": true,
+      "path": "select/11_Don’t_You_See_Shocking_Blue.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't You See the Light",
+      "artist": "E‐Rotic",
+      "has_synced": false,
+      "path": "select/12_Don't_You_See_the_Light_E‐Rotic.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "(Why Don’t You) See the Show Again",
+      "artist": "Barry Manilow",
+      "has_synced": true,
+      "path": "select/13_(Why_Don’t_You)_See_the_Show_Again_Barry_Manilow.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "(Why Don’t You) See the Show Again",
+      "artist": "Manilow, Barry",
+      "has_synced": true,
+      "path": "select/14_(Why_Don’t_You)_See_the_Show_Again_Manilow,_Barry.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "don't you see!",
+      "artist": "zard",
+      "has_synced": false,
+      "path": "select/pl_01_don't_you_see!_zard.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Don't you see!",
+      "artist": "zard",
+      "has_synced": false,
+      "path": "select/pl_02_Don't_you_see!_zard.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Don't you see!('07 Live Ver.)",
+      "artist": "zard",
+      "has_synced": false,
+      "path": "select/pl_03_Don't_you_see!('07_Live_Ver.)_zard.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Don't you see!",
+      "artist": "zard",
+      "has_synced": false,
+      "path": "select/pl_04_Don't_you_see!_zard.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Don't you see!",
+      "artist": "zard",
+      "has_synced": false,
+      "path": "select/pl_05_Don't_you_see!_zard.txt"
+    }
+  ]
+}
